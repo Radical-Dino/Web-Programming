@@ -2,7 +2,7 @@
 
 I made web pages on [CodePen](https://codepen.io/) using HTML, CSS and JavaScript.
 
-#About the Projects
+# About the Projects
 
 [Rad Homepage](https://codepen.io/hunterjustin/pen/GLeNrN)
 
