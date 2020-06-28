@@ -4,7 +4,7 @@ I made web pages on [CodePen](https://codepen.io/) using HTML, CSS and JavaScrip
 
 # About the Projects
 
-[Rad Homepage](https://codepen.io/hunterjustin/pen/GLeNrN)
+[Rad Homepage](https://codepen.io/hunterjustin/pen/GLeNrN):
 
 I used HTML, CSS and JavaScript to make a homepage.
 
